@@ -15,7 +15,7 @@
 * Автоматическая проверка на то, что читатель просрочил возврат книги.
 
 #### Стек технологий: 
-Java 17, Postgres, Hibernate, Spring Data JPA, Thymeleaf, Spring Validator, Maven, Git
+Java 17, Postgres, Hibernate, Spring Data JPA, Spring MVC, Thymeleaf, Spring Validator, Maven, Git
 
 ---
 
