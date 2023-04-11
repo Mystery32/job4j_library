@@ -14,6 +14,9 @@
 * Страница поиска книг
 * Автоматическая проверка на то, что читатель просрочил возврат книги.
 
+#### Стек технологий: 
+Java 17, Postgres, Hibernate, Spring Data JPA, Thymeleaf, Spring Validator, Maven, Git
+
 ---
 
 <h3>Работа с приложением</h3>
@@ -48,11 +51,11 @@
 
 <img src=https://user-images.githubusercontent.com/69649934/231183883-89d2ebe1-8ffd-4845-8778-047993d6acd3.png width="450" height="300" />
 
-<img src=https://user-images.githubusercontent.com/69649934/231191715-b200b9c4-a30f-4973-bb8c-8b9f4a210599.png width="400" height="300" />
+<img src=https://user-images.githubusercontent.com/69649934/231191715-b200b9c4-a30f-4973-bb8c-8b9f4a210599.png width="430" height="300" />
 
-<img src=https://user-images.githubusercontent.com/69649934/231190923-e0402617-7984-4258-8bf3-a409a428f291.png width="400" height="300" />
+<img src=https://user-images.githubusercontent.com/69649934/231190923-e0402617-7984-4258-8bf3-a409a428f291.png width="440" height="300" />
 
-<img src=https://user-images.githubusercontent.com/69649934/231190419-84b8bb34-0890-406d-8a54-137f438aac86.png width="400" height="300" />
+<img src=https://user-images.githubusercontent.com/69649934/231190419-84b8bb34-0890-406d-8a54-137f438aac86.png width="420" height="300" />
 
 <img src=https://user-images.githubusercontent.com/69649934/231188325-13e486b5-c7b7-4251-8196-073843a98350.png width="500" height="310" />
 
